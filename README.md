@@ -1,16 +1,30 @@
-# tarea_2
+# Tarea 1 - Analizando layouts
 
-A new Flutter project.
+## Tarea 2 - Flutter
 
-## Getting Started
+- ListView
+- Margin y Padding
+- Propiedades de snack bar
+- Gradientes
 
-This project is a starting point for a Flutter application.
+### Lo que me costó más trabajo
 
-A few resources to get you started if this is your first Flutter project:
+Lo que mas me costo, y dure un rato investigando fue el como hacer el cambio de colores y el como reiniciar el snack bar para que no se encolara.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Lo que aprendí
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Algunas propiedades de clases como el list view
+- Los gradientes
+- El control de colores en los elementos
+
+### Screenshots
+
+<img width="143" alt="2024-02-06_20h01_06" src="https://github.com/Saul-Ceti/tarea_2/assets/102005888/5c6b1a8a-60e6-4392-a268-8494c9f4f0d7">
+
+### Link al video de demostración
+
+[Enlace video](https://youtu.be/qSmwcelmfVs)
+
+### Referencias
+
+[Documentación Flutter](https://docs.flutter.dev/ui/widgets/basics)
